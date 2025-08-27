@@ -3,7 +3,7 @@ info:
   title: MV Playgrounds
   version: 0.0.1
 servers:
-  - url: http://localhost:1111/api
+  - url: https://api-play-magia-production.up.railway.app/api
     description: Development server
 paths:
   /collections/produtos:
